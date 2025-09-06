@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Laxman 👋
+I'm a B.Tech student in Electronics & Telecommunication Engineering, passionate about coding, problem-solving, and building software projects. Currently exploring web and Android development, and learning algorithms and data structures.
 
-<!--
-**laxmangaidhankar/laxmangaidhankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, C, C++, Python
+- **Web Development:** HTML, CSS, JavaScript
+- **Mobile Development:** Android (Java)
+- **Tools & Platforms:** Git, GitHub, VS Code, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+
+### MediBox - Medicine Guide App
+A mobile app to help users manage medicines, get reminders, and access medicine information.
+
+**Technologies:** Java, Android Studio, Firebase  
+**Repository:** [GitHub link to your project]  
+**Features:**
+- Medicine reminders
+- Caregiver Support
+- Medicine Supports 
+
+
+## Currently Learning
+- Data Structures & Algorithms
+- Software Development
+
+## Contact
+- LLinkedin: https://www.linkedin.com/in/laxmangaidhankar/
+- Email: laxmangaidhankar44@gmail.com
+
+
