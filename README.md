@@ -1,4 +1,4 @@
-# Hi, I'm Laxman 👋
+# Hi, I'm Laxman Gaidhankar 👋
 I'm a B.Tech student in Electronics & Telecommunication Engineering, passionate about coding, problem-solving, and building software projects. Currently exploring web and Android development, and learning algorithms and data structures.
 
 
@@ -27,7 +27,7 @@ A mobile app to help users manage medicines, get reminders, and access medicine 
 - Software Development
 
 ## Contact
-- LLinkedin: https://www.linkedin.com/in/laxmangaidhankar/
+- Linkedin: https://www.linkedin.com/in/laxmangaidhankar/
 - Email: laxmangaidhankar44@gmail.com
 
 
