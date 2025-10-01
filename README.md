@@ -1,5 +1,5 @@
 # Hi, I'm Laxman Gaidhankar 👋
-I'm a B.Tech student in Electronics & Telecommunication Engineering, passionate about coding, problem-solving, and building software projects. Currently exploring web and Android development, and learning algorithms and data structures.
+I'm Currently a B.Tech student in Electronics & Telecommunication Engineering, passionate about coding, problem-solving, and building software projects. Currently exploring web and Android development, and learning algorithms and data structures.
 
 
 ## Skills
