@@ -15,7 +15,6 @@ I'm Currently a B.Tech student in Electronics & Telecommunication Engineering, p
 A mobile app to help users manage medicines, get reminders, and access medicine information.
 
 **Technologies:** Java, Android Studio, Firebase  
-**Repository:** [GitHub link to your project]  
 **Features:**
 - Medicine reminders
 - Caregiver Support
