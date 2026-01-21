@@ -5,10 +5,6 @@
   Turning ideas into real-world applications through code. Web & Android developer focused on building, learning, and shipping impactful projects.
 </h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=laxmangaidhankar&label=Profile%20views&color=0e75b6&style=flat" alt="laxmangaidhankar" /> 
-</p>
-
 ---
 
 ### 🔭 Projects
@@ -71,7 +67,6 @@ Looking to work on:
 🚀 Learned to build under tight deadlines with cross-functional collaboration  
 
 [![Dimension X 2026](https://img.shields.io/badge/DimensionX-Top33-blue?style=for-the-badge&)](https://github.com/laxmangaidhankar)  
-📅 **Date:** 16–17 Jan 2026, DYPCET  
 👥 **Team Name:** MarathaMinds | Members: Sanket Rajkumar Gudade & Laxman Gaidhankar  
 🔬 **Domain:** Sustainability  
 💡 Developed **sustainable solutions** integrating Google technologies  
