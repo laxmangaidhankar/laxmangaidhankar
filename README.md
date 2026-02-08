@@ -118,10 +118,7 @@ Looking to work on:
 
 
 ---
-### 💻 Contributions, Languages & Consistency
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=laxmangaidhankar&show_icons=true&theme=dark" align="center" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laxmangaidhankar&show_icons=true&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmangaidhankar&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmangaidhankar&layout=compact&theme=dark" /> </p>>
 
 
 
