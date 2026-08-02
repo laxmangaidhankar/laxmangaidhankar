@@ -2,9 +2,9 @@
 
 # Laxman Gaidhankar
 
-**Full-Stack & Android Developer · Google Student Ambassador · Hackathon Finalist**
+**Full-Stack Developer · Google Student Ambassador · Hackathon Finalist**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1A56DB&center=true&width=650&lines=Building+full-stack+%26+Android+products+from+scratch;Top+12+%2F+163+%E2%80%A2+Top+100+%2F+900%2B+%E2%80%A2+Top+33+%E2%80%A2+Hack4Delhi+Shortlisted;Google+Student+Ambassador+%7C+Pune%2C+India;DSA+%7C+System+Design+%7C+Scalable+Solutions)](https://github.com/laxmangaidhankar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1A56DB&center=true&width=650&lines=Building+fintech%2C+privacy%2C+and+platform+engineering+projects;Top+12+%2F+163+%E2%80%A2+Top+100+%2F+900%2B+%E2%80%A2+Top+33+%E2%80%A2+Hack4Delhi+Shortlisted;Google+Student+Ambassador+%7C+Pune%2C+India;DSA+%7C+System+Design+%7C+Scalable+Solutions)](https://github.com/laxmangaidhankar)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-laxmangaidhankar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/laxmangaidhankar)
 [![Twitter](https://img.shields.io/badge/Twitter-@lgaidhankar-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/lgaidhankar)
@@ -19,9 +19,9 @@
 
 ## About Me
 
-I'm a B.Tech student at SCTR's Pune Institute of Computer Technology, building full-stack web and Android products that solve real-world problems. I believe in shipping fast, iterating constantly, and learning in public.
+I'm a B.Tech student at SCTR's Pune Institute of Computer Technology, building full-stack products across fintech, privacy engineering, and platform security. I believe in shipping fast, iterating constantly, and learning in public.
 
-- 🔭 Currently building **TrashMate** — a smart waste-collection platform
+- 🔭 Currently building **RelayPay** (fintech failover payments), **CipherVault** (PII tokenization engine), and **HeartBench** (privacy-first peer support platform)
 - 🤝 Google Student Ambassador — bridging campus and the developer ecosystem
 - 🏆 Competed in 4 national hackathons, shortlisted/awarded in all four
 - 🎯 Working toward FAANG-level DSA & System Design proficiency
@@ -35,32 +35,54 @@ I'm a B.Tech student at SCTR's Pune Institute of Computer Technology, building f
 <tr>
 <td width="50%" valign="top">
 
-### 🗑️ [TrashMate](https://github.com/laxmangaidhankar/TrashMate_Android_Project) &nbsp;![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
+### 💳 RelayPay — Real-Time Payment Failover System &nbsp;![Ongoing](https://img.shields.io/badge/status-ongoing-yellow?style=flat-square)
 
-Smart waste management platform connecting households with collectors for on-demand pickup.
+Fault-tolerant UPI-style payment system that reroutes failed transactions to a pre-approved backup contact instead of leaving them stuck.
 
-**Stack:** Java · XML · Node.js · Express.js · React.js · Firebase · MongoDB
+**Stack:** MERN (MongoDB, Express, React, Node.js) · Socket.io · JWT
 
 **Highlights:**
-- Android client with Firebase Auth & real-time tracking
-- RESTful backend with route optimization
-- React.js admin dashboard with role-based access control
-- MongoDB schemas designed for horizontal scalability
+- Reroutes failed transactions to a pre-approved backup contact, recovering an estimated ~90-95% of simulated failed payments without manual retry
+- Atomic transaction ledger (MongoDB sessions) preventing partial-transfer states across concurrent wallet operations — tested with 10+ concurrent simulated transactions, zero balance inconsistencies
+- Real-time failover notifications via Socket.io, cutting failure-to-resolution time to under 3-5 seconds by replacing polling with push-based delivery
+- Models realistic failure conditions (network timeout, insufficient balance) affecting ~15% of transactions, with automated failover triggering for each
 
 </td>
 <td width="50%" valign="top">
 
-### 💊 [MediBox](https://github.com/laxmangaidhankar/MediBox)
+### 🔐 CipherVault — PII Tokenization & Multi-Tenant Data Isolation Engine &nbsp;![Ongoing](https://img.shields.io/badge/status-ongoing-yellow?style=flat-square)
 
-Intelligent medicine management app with reminders, caregiver sharing, and dosage tracking.
+Tokenization engine that replaces sensitive PII fields with secure tokens before data enters downstream systems and reporting pipelines.
 
-**Stack:** Java · XML · Firebase Firestore · Material Design
+**Stack:** Java · Spring Boot · Spring Security · PostgreSQL · JPA
 
 **Highlights:**
-- Cloud-synced records with real-time CRUD & offline fallback
-- Adaptive UI across 10+ device form factors
-- MVC architecture for clean, modular feature delivery
-- Supports add, edit, delete with caregiver access
+- Tokenizes sensitive fields (account numbers, customer identity) so downstream services only ever operate on tokens, not raw PII
+- Tenant-aware data access enforcing logical isolation between multiple institutional clients in a shared multi-tenant architecture
+- Role-based detokenization workflow requiring reason codes and comprehensive audit logging for every sensitive data access
+- Secure token vault architecture designed to minimize PII exposure
+- Unit-tested (JUnit + Mockito) across tokenization, authorization, and access-control services
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💙 HeartBench — Privacy-First Peer Support & Study Matching Platform &nbsp;![Ongoing](https://img.shields.io/badge/status-ongoing-yellow?style=flat-square)
+
+Mobile-first platform connecting students by need category and location zone in real time, built around privacy rather than public broadcast.
+
+**Stack:** React (PWA) · Node.js · Express.js · Socket.io · MongoDB (Geospatial)
+
+**Highlights:**
+- MongoDB 2dsphere geospatial proximity matching to connect students by need category and location zone
+- Privacy-first matching engine using pseudonymized identities and location fuzzing, replacing public broadcast matching with secure server-side pairing
+- Real-time request-response matching via Socket.io, targeting sub-3-second match notification delivery
+- Category-based escalation logic to route high-sensitivity requests toward campus counseling resources rather than peer-only matching
+- Architected for scale via MongoDB geospatial indexing, with Redis-backed Socket.io scaling identified as the production next step
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -91,27 +113,31 @@ Intelligent medicine management app with reminders, caregiver sharing, and dosag
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Web & Mobile**
+**Backend & Frameworks**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Databases & Cloud**
+**Databases & Security**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -131,9 +157,9 @@ Intelligent medicine management app with reminders, caregiver sharing, and dosag
 
 ## 🎯 2025–26 Roadmap
 
-- [ ] Ship **TrashMate** v1.0 (public beta)
+- [ ] Ship **RelayPay** end-to-end (send money / relay status FSM screen, Android app)
+- [ ] Take **CipherVault** and **HeartBench** to a demoable state
 - [ ] Deep-dive into **System Design** (HLD + LLD)
-- [ ] Integrate **AI/ML features** into mobile & web projects
 - [ ] Win (not just compete) in a national hackathon
 
 ---
