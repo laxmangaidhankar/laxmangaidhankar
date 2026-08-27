@@ -19,10 +19,8 @@
 
 I'm a B.Tech student at SCTR's Pune Institute of Computer Technology, building full-stack products across fintech, privacy engineering, and platform security. I believe in shipping fast, iterating constantly, and learning in public.
 
-- 🔭 Currently building **RelayPay** (fintech failover payments), **CipherVault** (PII tokenization engine), and **HeartBench** (privacy-first peer support platform)
 - 🤝 Google Student Ambassador — bridging campus and the developer ecosystem
 - 🏆 Competed in 4 national hackathons, shortlisted/awarded in all four
-- 🎯 Working toward FAANG-level DSA & System Design proficiency
 - 💡 Open to internships, open-source collaboration, and startup ideas
 
 ---
