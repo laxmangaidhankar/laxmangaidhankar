@@ -152,7 +152,7 @@ I learn by building and enjoy turning real-world problems into
 </tr>
 
 <tr>
-<td align="center"><strong>CipherDrop</strong></td>
+<td align="center"><strong>CipherVault</strong></td>
 <td>
 Secure, ephemeral collaboration platform for developers to share sensitive
 files, code, and environment configurations inside encrypted rooms with
@@ -161,7 +161,7 @@ automatic cleanup and controlled access.
 
 <td>MERN · Socket.io · JWT · MongoDB · Android</td>
 <td align="center">
-<a href="https://github.com/laxmangaidhankar/envsafe">View</a>
+<a href="https://github.com/laxmangaidhankar/ciphervault.git">View</a>
 </td>
 </tr>
 
