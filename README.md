@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
 # LAXMAN GAIDHANKAR
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=00D2FF\&center=true\&multiline=true\&width=900\&height=100\&lines=ENTC+%40+PICT+%2728+%7C+Software+Developer;Full-Stack+%7C+Backend+%7C+Android+Development;Building+Practical+Software+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&multiline=true&width=900&height=100&lines=Software+Developer+%7C+PICT+%2728;Backend+%7C+Full-Stack+Development;Building+Secure+and+Practical+Software+Systems)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,71 +20,43 @@
 
 <br><br>
 
-<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=About%20Me&fontSize=22&fontColor=ffffff" width="100%"/>
 
 <br>
 
 <h3>B.Tech. Electronics & Telecommunication Engineering @ PICT, Pune · 2028</h3>
-<h3>Diploma in Computer Engineering · 93.83%</h3>
+<h3>Diploma in Computer Engineering · 93.83% · Institute Rank 1</h3>
 
+<p><strong>Software Developer | Backend Engineering | Full-Stack Development</strong></p>
 <p>
-<strong>Software Developer · Full-Stack · Backend · Android</strong>
+I'm a software-focused engineering student passionate about building <strong>secure, scalable, and reliable software systems</strong>. I enjoy solving real-world problems through backend engineering, full-stack development, REST APIs, database design, and real-time applications. Currently, I'm strengthening my foundations in <strong>Java, Data Structures & Algorithms, system design, and software engineering</strong> while building practical projects focused on security, performance, and maintainability.
 </p>
-
-<br>
-
-<p>
-I'm a software-focused engineering student passionate about building
-<strong>practical, scalable, and reliable software systems.</strong>
-</p>
-
-<p>
-I enjoy working across the stack — from designing
-<strong>REST APIs and backend services</strong> to building
-<strong>responsive web applications, Android apps, and real-time systems.</strong>
-</p>
-
-<p>
-Currently, I'm strengthening my foundations in
-<strong>Java, Data Structures & Algorithms, backend engineering,
-system design, and full-stack development.</strong>
-</p>
-
-<p>
-I learn by building and enjoy turning real-world problems into
-<strong>simple, useful, and production-oriented solutions.</strong>
-</p>
-
-<br>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Achievements&fontSize=22&fontColor=ffffff" width="100%"/>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<th>Category</th>
-<th>Achievement</th>
+<th align="center">Category</th>
+<th align="center">Achievement</th>
 </tr>
-
+<tr>
+<td><strong>Academics</strong></td>
+<td>Institute Rank 1 in Diploma in Computer Engineering · 93.83%</td>
+</tr>
+<tr>
+<td><strong>Recognition</strong></td>
+<td>Academic Excellence Award · ZES's Zeal Polytechnic</td>
+</tr>
 <tr>
 <td><strong>Hackathons</strong></td>
-<td>Participated in multiple hackathons and innovation challenges</td>
+<td>Track Winner — Build for Billions (NITK); Top 12 — Startup Smackdown</td>
 </tr>
-
-<tr>
-<td><strong>Academic</strong></td>
-<td>Diploma in Computer Engineering — 93.83%</td>
+<td><strong>Problem Solving</strong></td>
+<td>150+ LeetCode problems · GeeksforGeeks Top 500 institute ranking · CodeChef DSA peak rating: 1400</td>
 </tr>
-
-<tr>
-<td><strong>Projects</strong></td>
-<td>Built applications across full-stack, Android, AI, and real-time systems</td>
-</tr>
-
 </table>
 
 <br>
@@ -98,6 +70,7 @@ I learn by building and enjoy turning real-world problems into
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <br><br>
 
@@ -105,87 +78,82 @@ I learn by building and enjoy turning real-world problems into
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 <br><br>
 
-### Databases
+### Databases & Caching
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 <br><br>
 
-### Frontend & Mobile
+### Frontend & Web
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <br><br>
 
-### Tools & DevOps
+### Cloud, DevOps & Developer Tools
 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <br><br>
+
+### Core Computer Science
+
+`Data Structures & Algorithms` · `OOP` · `Operating Systems` · `Computer Networks` · `System Design Fundamentals`
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff" width="100%"/>
 
 <br>
 
 <table width="100%">
-
 <tr>
 <th align="center">Project</th>
 <th align="center">Description</th>
-<th align="center">Stack</th>
-<th align="center">Link</th>
+<th align="center">Tech Stack</th>
+<th align="center">Links</th>
 </tr>
 
 <tr>
-<td align="center"><strong>CipherVault</strong></td>
+<td align="center"><strong>HandoffHub</strong><br/>Project Delivery Workspace</td>
 <td>
-Secure, ephemeral collaboration platform for developers to share sensitive
-files, code, and environment configurations inside encrypted rooms with
-automatic cleanup and controlled access.
+A full-stack workspace for coordinating client–developer project delivery,
+organizing requirements, milestones, deliverables, reviews, and change requests
+through a structured workflow.
 </td>
-
-<td>MERN · Socket.io · JWT · MongoDB · Android</td>
+<td>React · Node.js · Express · MongoDB · Redis · Socket.IO · JWT</td>
 <td align="center">
-<a href="https://github.com/laxmangaidhankar/ciphervault.git">View</a>
-</td>
-</tr>
-
-<tr>
-<td align="center"><strong>GateMatch</strong></td>
-<td>
-Real-time campus ride and fare-splitting platform
-that matches students based on routes and destinations.
-</td>
-<td>React · Node.js · Express · Socket.io · MongoDB · Redis</td>
-<td align="center">
-<a href="https://github.com/laxmangaidhankar/gatematch">View</a>
+<a href="https://github.com/laxmangaidhankar/HandoffHub">Repository</a>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>HeartBench</strong></td>
+<td align="center"><strong>SafeHouse</strong><br/>A Safer Space for Shared Secrets</td>
 <td>
-Real-time web application with location-aware backend
-capabilities and live communication.
+An end-to-end encrypted temporary-room platform for sharing sensitive
+environment variables and private chat, with real-time synchronization
+and automatic room expiration.
 </td>
-<td>React · Node.js · Express · Socket.io · PostgreSQL</td>
+<td>React · Node.js · Express · MongoDB · Redis · Socket.IO · JWT · Web Crypto API</td>
 <td align="center">
-<a href="https://github.com/laxmangaidhankar/heartbench">View</a>
+<a href="https://github.com/laxmangaidhankar/ciphervault">Repository</a><br/>
+<a href="https://safehouse-sigma.vercel.app/">Live Demo</a>
 </td>
 </tr>
 
@@ -193,11 +161,33 @@ capabilities and live communication.
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=Problem%20Solving&fontSize=22&fontColor=ffffff" width="100%"/>
+
+<br>
+
+<div align="center">
+
+<a href="[https://leetcode.com/](https://leetcode.com/u/LaxmanGaidhankar/)">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/laxmangaidhankar?tab=activity)">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Top%20500%20Institute-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+&nbsp;
+<a href="[https://www.codechef.com/](https://www.codechef.com/users/dev_laxman?rating=dsa-monday)">
+  <img src="https://img.shields.io/badge/CodeChef-DSA%20Peak%201400-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021B79,100:0575E6&height=45&section=header&text=GitHub%20Stats&fontSize=22&fontColor=ffffff" width="100%"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxmangaidhankar&theme=github_dark" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxmangaidhankar&theme=github_dark" width="95%"/>
 
 <br><br>
 
@@ -205,9 +195,9 @@ capabilities and live communication.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=laxmangaidhankar&style=flat-square&color=0575E6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=laxmangaidhankar&style=flat-square&color=0575E6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%"/>
 
